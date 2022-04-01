@@ -1,4 +1,4 @@
-# ssm-seoul-tutorial
+# Bryan's ssm-seoul-tutorial
 
 ## Setup WSL2 & Ubuntu & Git
 
